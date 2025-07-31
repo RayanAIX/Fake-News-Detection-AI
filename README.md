@@ -45,8 +45,6 @@ Source: [Kaggle Fake News Dataset](https://www.kaggle.com/clmentbisaillon/fake-a
 
 ---
 
-## 🧪 Try It Yourself
-
 ## 🧑‍💻 Author
 
 **Muhammad Rayan Shahid**  
@@ -56,7 +54,8 @@ Passionate AI & ML Developer | [LinkedIn](https://www.linkedin.com/in/muhammadra
 
 ⭐ If you found this project helpful, consider starring the repo!
 
-
+## 🧪 Try It Yourself
+ 
 ```python
 from fake_news_model import predict_news
 
