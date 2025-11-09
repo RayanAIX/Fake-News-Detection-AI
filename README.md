@@ -41,7 +41,7 @@ Balanced dataset ensures the model learns accurate linguistic cues and semantic 
 
 | Fake News Demo | Real News Demo
 |----------------|---------------
-| ![Fake News Screenshot](screenshots/fake_news_demo.png) | ![Real News Screenshot](screenshots/real_news_demo.png)
+| ![Fake News Screenshot](assets/fake_news_demo.png) | ![Real News Screenshot](assets/real_news_demo.png)
 
 
 
